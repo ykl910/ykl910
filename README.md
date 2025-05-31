@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">👋 Hey! I'm a Taiwanese aspiring software engineer based in France for the last 6 years.<br><br>I speak Mandarin, English, and French, and spent 4 years working as a data analyst before switching paths.<br><br>For the past few months, I’ve been studying at 42 Paris — building projects from scratch, learning by doing, and loving every part of it.<br><br>Now I'm looking for a software engineer internship where I can keep learning and contribute to something meaningful. Let’s connect! 🚀</p>
+<p align="left">👋 Hey! I'm a Taiwanese aspiring software engineer based in France for the last 6 years.<br>I speak Mandarin, English, and French, and spent 4 years working as a data analyst before switching paths.<br>For the past few months, I’ve been studying at 42 Paris — building projects from scratch, learning by doing, and loving every part of it.<br>Now I'm looking for a software engineer internship where I can keep learning and contribute to something meaningful. Let’s connect! 🚀</p>
 
 ###
 
