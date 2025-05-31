@@ -17,7 +17,12 @@
 
 ###
 
-<p align="left">👋 Hey! I'm a Taiwanese aspiring software engineer based in France for the last 6 years.<br>I speak Mandarin, English, and French, and spent 4 years working as a data analyst before switching paths.<br>For the past few months, I’ve been studying at 42 Paris — building projects from scratch, learning by doing, and loving every part of it.<br>Now I'm looking for a software engineer internship where I can keep learning and contribute to something meaningful. Let’s connect! 🚀</p>
+<p align="left">
+👋 Hi! I'm a curious and motivated Taiwanese girl 🇹🇼 who's been living in France 🇫🇷 for the past 6 years.<br>
+I speak Mandarin, English, and French, and spent 4 years working as a data analyst 📊 — a role that opened my eyes to how much I enjoy building things and solving problems through code 💡.<br>
+For the past several months, I’ve been studying full-time at 42 Paris 🏫 — building projects from scratch, learning by doing, and enjoying every step of the challenge 🚧.<br>
+Now, I’m looking for a software engineering internship (preferably backend) 🔍 where I can keep growing and contribute to meaningful work. Let’s connect! 🚀
+</p>
 
 ###
 
